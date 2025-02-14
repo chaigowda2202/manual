@@ -1,0 +1,18 @@
+
+{
+    "register" :{
+        "fname" : "chaithanya",
+        "lname" : "gowda",
+        "email" : "gutuuuuu@123.com",
+        "password" : "123456789",
+        "confirmpass" : "123456789"
+    },
+    "baseUrl" : {
+       "url" : "https://demowebshop.tricentis.com/"
+    }
+}
+
+
+
+
+

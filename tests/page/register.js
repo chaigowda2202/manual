@@ -27,7 +27,8 @@ export class LoginPage {
         await this.password.fill(PASS);
         await this.confirmpass.fill(CONPASS);
         await this.regbtn.click(); 
-        await this.pause(2000)    
+        await this.pause(2000)   
+        await this.pause(10000) 
     }
 
     async verifyRegistrationSuccess() {
